@@ -1,0 +1,19 @@
+.container{
+    width: 60%;
+    height: auto;
+    text-align: start;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    margin-left: 20px;
+}
+h1{
+    font-size: 72px;
+}
+p{
+    font-size: 22px;
+}
